@@ -32,7 +32,7 @@ github_username:  jekyll
 # Build settings
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: minima
 
 #theme: "jekyll-theme-minimal"
 #plugins:
