@@ -17,3 +17,24 @@ main:
     url: /collection-archive/
   - title: "External Link"
     url: https://google.com
+docs:
+  - title: Services
+    children:
+      - title: "About services"
+        url: /services/
+      - title: "Service 1"
+        url: /services/service1/
+      - title: "Service 2"
+        url: /services/service2/
+  - title: Customization
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
