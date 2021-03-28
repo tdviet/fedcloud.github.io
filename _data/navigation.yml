@@ -13,14 +13,7 @@ main:
     url: /collection-archive/
   - title: "External Link"
     url: https://google.com
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+docs:
   - title: Services
     children:
       - title: "About services"
@@ -29,7 +22,6 @@ sidebar:
         url: /services/service1/
       - title: "Service 2"
         url: /services/service2/
-
   - title: Customization
     children:
       - title: "Configuration"
