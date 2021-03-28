@@ -14,7 +14,13 @@ main:
   - title: "External Link"
     url: https://google.com
 
-docs:
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
   - title: Services
     children:
       - title: "About services"
