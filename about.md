@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
 sidebar:
@@ -23,8 +23,6 @@ sidebar:
         url: /docs/authors/
       - title: "Layouts"
         url: /docs/layouts/
-    
-
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
