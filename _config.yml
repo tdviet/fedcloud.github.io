@@ -35,6 +35,7 @@ google_analytics:
 #theme: minima
 
 repository: "tdviet/edcloud.github.io"
+include: ["services"]
 
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
