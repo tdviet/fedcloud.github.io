@@ -1,4 +1,8 @@
 main:
+ - title: "About"
+    url: /about/
+ - title: "Services"
+    url: /services/
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "Posts"
