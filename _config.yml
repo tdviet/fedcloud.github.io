@@ -36,7 +36,8 @@ google_analytics:
 
 repository: "tdviet/edcloud.github.io"
 
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
 plugins:
   - jekyll-feed
