@@ -4,3 +4,6 @@
 
 layout: home
 ---
+## Welcome to fedcloud.eu
+
+This is a test
