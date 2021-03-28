@@ -1,6 +1,7 @@
 ---
 layout: posts
-permalink: /service/service1
+title: About service 1
+permalink: /services/service1/
 ---
 
 # This is a interesting service
