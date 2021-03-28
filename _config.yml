@@ -34,6 +34,8 @@ show_downloads: true
 google_analytics:
 #theme: minima
 
+epository: "tdviet/edcloud.github.io"
+
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
