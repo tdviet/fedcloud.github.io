@@ -4,6 +4,8 @@
 
 layout: home
 ---
-## Welcome to fedcloud.eu
+# Welcome to fedcloud.eu
+
+## This is a header
 
 This is a test
